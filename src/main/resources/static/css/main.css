@@ -1,0 +1,18 @@
+body {
+    /* background-image: linear-gradient(rgba(245,245,245,1), rgba(0,142,214,.2)); */
+    /* background: url(../images/sonic_background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-width: auto; */
+}
+
+.navbar {
+    border-bottom: #666 3px solid;
+    opacity: 0.8;
+}
+
+#main-footer {
+    border-top: #008ed6 3px solid;
+    opacity: 0.8;
+}
